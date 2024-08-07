@@ -1,0 +1,9 @@
+numpy
+scipy
+matplotlib
+librosa
+tensorflow
+keras
+ipywidgets
+notebook
+IPython
